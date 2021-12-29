@@ -1,1 +1,6 @@
-
+button:hover {
+    transition-property: background-color;
+    transition-timing-function: ease-in-out;
+    transition-duration: 2s;
+    color: ghostwhite;
+}
